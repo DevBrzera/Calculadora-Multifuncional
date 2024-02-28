@@ -92,7 +92,7 @@ switch (operacao)
         break;
 
     case "/":
-        if (num1 == 0 || num2 == 0) {
+        if (num2 == 0) {
             Console.WriteLine("Valor Inválido para divisão!");
         }
         else {
