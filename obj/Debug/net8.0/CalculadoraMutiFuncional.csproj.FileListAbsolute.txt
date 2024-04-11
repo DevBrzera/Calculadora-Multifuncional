@@ -26,3 +26,4 @@ C:\Users\bgreg\OneDrive\Documentos\VS Code Workspace\C#\CalculadoraMutiFuncional
 C:\Users\bgreg\OneDrive\Documentos\VS Code Workspace\C#\CalculadoraMutiFuncional\bin\Debug\net8.0\CalculadoraMutiFuncional.pdb
 C:\Users\bgreg\OneDrive\Documentos\VS Code Workspace\C#\CalculadoraMutiFuncional\obj\Debug\net8.0\CalculadoraMutiFuncional.genruntimeconfig.cache
 C:\Users\bgreg\OneDrive\Documentos\VS Code Workspace\C#\CalculadoraMutiFuncional\obj\Debug\net8.0\ref\CalculadoraMutiFuncional.dll
+C:\Users\bgreg\OneDrive\Documentos\VS Code Workspace\C#\CalculadoraMutiFuncional\obj\Debug\net8.0\CalculadoraMutiFuncional.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraMutiFuncional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e97d5dc01b0e4f11ee04f94080db17069aabee30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91d046600079b8a034b10496c2d58a3bd289be03")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraMutiFuncional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraMutiFuncional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

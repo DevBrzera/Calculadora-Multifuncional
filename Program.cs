@@ -113,7 +113,7 @@ switch (operacao)
     case "%":
         Console.Clear();
         res = Math.Pow(num1, (1 / num2));
-        Console.WriteLine($"Raíz {num2} de {num1} = {res}");
+        Console.WriteLine($"Raíz {num2}° de {num1} = {res}");
 
         break;
 
